@@ -2,8 +2,6 @@ import scrapy
 
 
 class Shopify(scrapy.Spider):
-    http_user = 'someuser'
-    http_pass = 'somepass'
     name = 'shop'
     start_urls = []
     custom_settings = {
