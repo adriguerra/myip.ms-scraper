@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore output files
+*.csv
+*.json
+*.log
+page.html
+
+# VS Code or PyCharm
+.vscode/
+.idea/
+
